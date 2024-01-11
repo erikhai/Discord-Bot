@@ -15,7 +15,7 @@ I found that their tutorial was easy to follow and understand regarding how to g
 
 ## API's that I used
 1. For jokes: https://sv443.net/jokeapi/v2/
-2. For memes: https://meme-api.com/gimme
+2. For memes: https://meme-api.com/gimme  https://github.com/D3vd/Meme_Api
 3. For manga: https://api.jikan.moe/v4/random/manga
 4. For anime: https://api.jikan.moe/v4/random/anime
 5. For news (Not working cause I cannot successfully make an account :/): https://api.nytimes.com/svc/topstories/v2/world.json
