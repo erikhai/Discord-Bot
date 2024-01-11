@@ -8,6 +8,7 @@ I found that their tutorial was easy to follow and understand regarding how to g
 2. Understanding how to use await and asynchro
 3. Understanding how to extract JSON files and how to extract relevant data from them
 4. Documentation skills and bug fixing
+5. Developing an understanding on how to use API's
 
 ## What are my future plans for this project?
 1. Properly incorporating the news feature
