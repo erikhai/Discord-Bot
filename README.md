@@ -1,5 +1,6 @@
 # Discord-Bot (Version 1.0.0)
 This project was inspired from: https://www.codedex.io/projects/build-a-discord-bot-with-python
+
 I found that their tutorial was easy to follow and understand regarding how to get started developing a Discord bot. Through further experimentation and trial and error I have finally developed a discord bot that is suitable for my daily life. Since I am a regular user of the platform, developing a bot was a fun experience, and is satisfying seeing my bot being functional in my severs.
 
 ## What did I learn from this project?
